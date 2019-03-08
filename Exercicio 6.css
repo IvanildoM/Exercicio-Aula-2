@@ -1,0 +1,12 @@
+.texto:hover{
+	border-bottom-color: 1px solid red;
+	
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	border-bottom-style: 1px solid red;
+	color:red;
+	background-color:red;
+}

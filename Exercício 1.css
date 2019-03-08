@@ -1,0 +1,22 @@
+.definicao{
+	border-left:20px solid green;
+	border-right:20px solid red;
+	width:60%;
+	height:400px;
+	font-size:12px;
+	letter-spacing:3px;
+	word-spacing:4px;
+	padding-top:3px;
+	text-align:justify;
+	font-family: Verdana;
+	text-indent:25px;
+}
+p::first-letter{
+	font-size:36px;
+	color:blue;
+	text-decoration:overline;
+}
+p::first-line{
+	text-decoration:underline;
+	text-transform:uppercase;
+}

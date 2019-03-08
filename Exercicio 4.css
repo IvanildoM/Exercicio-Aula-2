@@ -1,0 +1,14 @@
+nav#menu ul{
+	list-style: none;
+	
+}
+nav#menu li{
+	display: inline-block;
+	margin:30px;
+}
+a:hover{
+	text-decoration: none;
+}
+.bordaverde:hover{
+	border-top:green;
+}

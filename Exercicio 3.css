@@ -1,0 +1,7 @@
+.imagem{
+	-webkit-filter: grayscale(0%);
+}
+
+.imagem:hover{
+	-webkit-filter: grayscale(100%);
+}
